@@ -11,7 +11,8 @@ This repository contains my final Power BI project showcasing data cleaning, mod
 ## 🧾 Files in this repository
 
 - `/report/Dashboard_01.pbix` – main Power BI report file  
-- `/data/Power BI - Final Project.xlsx` – cleaned dataset used in the report  
+- `/data/Power BI - Final Project.xlsx` – dataset before cleaning
+- `/data/
 - `/screenshots/` – screenshots of the dashboard
 
 ## 🔍 Dashboard Highlights
