@@ -58,7 +58,7 @@ This repository contains my final Power BI project showcasing data cleaning, mod
     
 ## Dashboard preview
 
-![Dashboard Preview](screenshots/Dashboard_01.png)
+![Dashboard Preview](screenshots/Dashboard_02.png)
 ---
 
 If you're reviewing this as part of a job application – thank you for taking the time to look at my work 🙌
