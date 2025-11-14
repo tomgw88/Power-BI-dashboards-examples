@@ -36,6 +36,25 @@ This repository contains my final Power BI project showcasing data cleaning, mod
   - Slicers
   - Buttons
   - Different types of charts
+ 
+## 🔧 Key Features
+- Data cleaning in Power Query  
+- Standardized dates and time formats  
+- Removed duplicates and inconsistent values  
+- Corrected data types  
+- Created new helper columns  
+- Overall data preparation for reporting purposes
+
+##  🛠 Tech Stack / Tools Used
+- **Power BI Desktop**
+- **Power Query (M language)**
+- **DAX (basics)**
+- **Excel**
+- **GitHub for version control**
+- **Data visualization best practices**
+
+
+
     
 ## Dashboard preview
 
